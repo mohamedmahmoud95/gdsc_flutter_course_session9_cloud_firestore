@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "249940285521",
+    "project_id": "gdsc-flutter-course",
+    "storage_bucket": "gdsc-flutter-course.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:249940285521:android:1729b9af07fc8bad5cc070",
+        "android_client_info": {
+          "package_name": "com.example.gdsc_flutter_course_session9_cloud_firestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "249940285521-c31muu2vq7f5u5dugapa0k9fro3i59b9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOPi-Kpm6bJXayjO7Fl9DwBvtq58Hrl_k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "249940285521-c31muu2vq7f5u5dugapa0k9fro3i59b9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
